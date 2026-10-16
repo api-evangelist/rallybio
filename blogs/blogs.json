@@ -2,11 +2,8 @@
   "repo": "rallybio",
   "feeds": [
     {
-      "source": "https://rallybio.com/about-us/",
-      "feed_url": "https://rallybio.com/about-us/blog/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered"
+      "source": "https://investors.rallybio.com/news-releases",
+      "error": "HTTPError"
     },
     {
       "source": "https://rallybio.com/about-us/blog/feed/",
@@ -24,5 +21,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
